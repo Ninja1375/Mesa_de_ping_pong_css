@@ -7,10 +7,17 @@ Este projeto recria uma mesa de ping pong em 3D apenas com **HTML e CSS**, inclu
 - `style.css` — estilos e animações.
 
 ## 🚀 Como executar localmente
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/Ninja1375/Mesa_de_ping_pong_css.git
-   cd Mesa_de_ping_pong_css
+1️⃣ **Clone o repositório**  
+```bash
+git clone https://github.com/Ninja1375/Mesa_de_ping_pong_css.git
+```
+
+2️⃣ Acesse a pasta
+```bash
+cd Mesa_de_ping_pong_css
+```
+
+3️⃣ Abra o arquivo `index.html` no navegador
 
 ## Linguagens Utilizadas:
 
